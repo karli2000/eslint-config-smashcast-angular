@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-smashcast-angular",
+  "version": "1.0.0",
+  "description": "Eslint Rules for Smashcast projects using angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smashcast/eslint-config-smashcast-angular.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-angular": "0.5.0",
+    "eslint-plugin-angular": "1.4.1"
+  }
+}
